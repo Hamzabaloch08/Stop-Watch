@@ -26,3 +26,10 @@ A straightforward stopwatch application developed with HTML, CSS, and JavaScript
 3. **Reset the Stopwatch**:
    - Click the **Reset** button to clear the elapsed time and restart the stopwatch from zero.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please reach out to [Your Name](mailto:your-email@example.com) or open an issue on the [GitHub repository](https://github.com/YourUsername/Stop-Watch/issues).

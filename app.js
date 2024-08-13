@@ -27,3 +27,12 @@ let stopTheStart;
  function stop() {
     clearInterval(stopTheStart)
  }
+
+ function reset() {
+    minutes = 0
+    seconds = 0
+    miliSeconds = 0
+    getMiliSec.innerHTML = miliSeconds
+    getSec.innerHTML = seconds
+    getMin.innerHTML = minutes
+ }

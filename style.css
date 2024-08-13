@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    font-family: sans-s erif;
+}
+
+#heading{
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: aqua;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.child-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    padding: 200px;
+}
+
+.Watch-section {
+    display: flex;
+    gap: 0px 50px;
+    margin-top: 20px;
+}
+
+.Watch-section>h1{
+    width: 80px;
+    text-align: center;
+    color: aqua;
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+.button-section{
+    display: flex;
+    gap: 0px 60px;
+    margin-top: 50px;    
+}
+
+.button-section>button{
+    padding: 15px 60px;
+    font-size: 1.2rem;
+    background-color: transparent;
+    border: 1px solid aqua;
+    color: aqua;
+}

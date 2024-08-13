@@ -24,3 +24,6 @@ let stopTheStart;
     }, 10)
  }
 
+ function stop() {
+    clearInterval(stopTheStart)
+ }

@@ -32,4 +32,4 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 
 ## Contact
 
-For any questions or feedback, please reach out to [Your Name](mailto:your-email@example.com) or open an issue on the [GitHub repository](https://github.com/YourUsername/Stop-Watch/issues).
+For any questions or feedback, please reach out to [Hamzabaloch](hb.developer@gmail.com) or open an issue on the [GitHub repository](https://github.com/Hamzabaloch08/Stop-Watch/issues).
